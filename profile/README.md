@@ -65,15 +65,6 @@ This project is managed by a multidisciplinary student group. Each team member i
 
 ---
 
-## 📎 Links & References
-
-- 📁 [GitHub Project Board](https://github.com/orgs/CommCare-SA/projects/1)
-- 📄 [Project Proposal Document](./docs/Project_Proposal.pdf)
-- 🗂️ [MS Project Plan Screenshots](./planning/ms_project/)
-- 🧩 [GitHub Issues Log](./issues-log/)
-
----
-
 ## ✅ Disclaimer
 
 This project is a **simulation for academic purposes**. No real application will be developed or deployed. The goal is to evaluate and demonstrate project management skills in a structured, real-world-inspired environment.
