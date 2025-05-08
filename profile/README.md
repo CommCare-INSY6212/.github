@@ -61,6 +61,7 @@ This project is managed by a multidisciplinary student group. Each team member i
 | Sashveer Lakhan Ramjathan     | ST10361554      |
 | Shravan Ramjathan             | ST10361554      |
 | Blaise Mikka de Gier          | ST10249838      |
+| Uvaan Covenden          | ST10022006      |
 
 ---
 
